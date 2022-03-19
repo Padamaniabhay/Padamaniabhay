@@ -1,16 +1,75 @@
 ### Hi there 👋
 
-<!--
-**Padamaniabhay/Padamaniabhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+I am Abhay Padamani.
+Padamaniabhay :: github  ➜  ~ » ls sections
+"Achievements"   "Skills"   "Profile Visits"   "Contact Me Here"   "Languages and Tools"
+```
+
+# Achievements
+<img src="https://github-readme-stats.vercel.app/api?username=Padamaniabhay&show_icons=true&theme=dark&&count_private=true&include_all_commits=true" alt="rajat-gajera" /> </p><br/>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Padamaniabhay)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
+ 
+# Skills
+<details>
+<summary>Languages</summary>
+<br>
+  
+```bash
+Padamaniabhay :: github  ➜  ~ » ls languages
+"JavaScript"  "C++" "HTML"   "CSS"
+```
+</details>
+
+<details>
+<summary>Frameworks and Libraries</summary>
+<br>
+  
+```bash
+Padamaniabhay :: github  ➜  ~ » ls "Frameworks And Libraries"
+"Node.js"   "React.js" "Redux"   "Tailwind CSS"
+```
+</details>
+
+<details>
+<summary>Database and Cloud Techs</summary>
+<br>
+  
+```bash
+Padamaniabhay :: github  ➜  ~ » ls "Database and Cloud Techs"
+"MongoDB"   "PostgresSQL"   "MySQL"  "SQL"
+```
+</details>
+<details>
+<summary>Tools and Technologies</summary>
+<br>
+  
+```bash
+Padamaniabhay :: github  ➜  ~ » ls "Tools and Technologies"
+"Web Development ➜ MERN stack"
+```
+</details>
+
+<br/>
+
+# Profile Visits
+![Visitor Count](https://profile-counter.glitch.me/Padamaniabhay/count.svg)
+ 
+<br/><br/><br/> 
+# Contact Me Here
+<a href="https://www.facebook.com/profile.php?id=100075280414317"> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
+<a href=https://www.linkedin.com/in/abhay-padamani-931840193 > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
+<a href=https://www.instagram.com/__abhay__patel__ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
+<br/>
+<br/>
+<br/>
+ 
+
+⭐ from [Abhay Padamani](https://github.com/Padamaniabhay)
+
