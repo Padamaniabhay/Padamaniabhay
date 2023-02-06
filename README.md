@@ -10,9 +10,6 @@ Padamaniabhay :: github  ➜  ~ » ls sections
 ```
 
 # Achievements
-<img src="https://github-readme-stats.vercel.app/api?username=Padamaniabhay&show_icons=true&theme=dark&&count_private=true&include_all_commits=true" alt="rajat-gajera" /> </p><br/>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Padamaniabhay)](https://github.com/anuraghazra/github-readme-stats)
 
  
  
