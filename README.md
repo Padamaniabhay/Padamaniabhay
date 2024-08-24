@@ -54,15 +54,10 @@ Padamaniabhay :: github  ➜  ~ » ls "Tools and Technologies"
 </details>
 
 <br/>
-
-# Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/Padamaniabhay/count.svg)
  
 <br/><br/><br/> 
 # Contact Me Here
-<a href="https://www.facebook.com/profile.php?id=100075280414317"> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
-<a href=https://www.linkedin.com/in/abhay-padamani-931840193 > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
-<a href=https://www.instagram.com/__abhay__patel__ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
+<a href=https://www.linkedin.com/in/abhaypadamani > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
 <br/>
 <br/>
 <br/>
