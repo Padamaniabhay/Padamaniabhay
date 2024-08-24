@@ -1,17 +1,6 @@
 ### Hi there 👋
 
 # Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
-
-
-```bash
-I am Abhay Padamani.
-Padamaniabhay :: github  ➜  ~ » ls sections
-"Achievements"   "Skills"   "Profile Visits"   "Contact Me Here"   "Languages and Tools"
-```
-
-# Achievements
-
- 
  
 # Skills
 <details>
@@ -20,7 +9,7 @@ Padamaniabhay :: github  ➜  ~ » ls sections
   
 ```bash
 Padamaniabhay :: github  ➜  ~ » ls languages
-"JavaScript"  "C++" "HTML"   "CSS"
+"JavaScript"  "TypeScript"  "C++"  "C"
 ```
 </details>
 
@@ -30,7 +19,7 @@ Padamaniabhay :: github  ➜  ~ » ls languages
   
 ```bash
 Padamaniabhay :: github  ➜  ~ » ls "Frameworks And Libraries"
-"Node.js"   "React.js" "Redux"   "Tailwind CSS"
+"Node.js"  "Nest JS"  "Express JS"  "React JS"  "Vue JS"  "Redux"  "Tailwind CSS"
 ```
 </details>
 
@@ -40,7 +29,7 @@ Padamaniabhay :: github  ➜  ~ » ls "Frameworks And Libraries"
   
 ```bash
 Padamaniabhay :: github  ➜  ~ » ls "Database and Cloud Techs"
-"MongoDB"   "PostgresSQL"   "MySQL"  "SQL"
+"MongoDB"  "PostgresSQL"  "MySQL"  "AWS"
 ```
 </details>
 <details>
@@ -48,20 +37,16 @@ Padamaniabhay :: github  ➜  ~ » ls "Database and Cloud Techs"
 <br>
   
 ```bash
-Padamaniabhay :: github  ➜  ~ » ls "Tools and Technologies"
-"Web Development ➜ MERN stack"
+Padamaniabhay :: github  ➜  ~ » ls "Tools"
+"GitHub"  "Postman"  "Swagger"  "Jira"
 ```
 </details>
 
 <br/>
- 
-<br/><br/><br/> 
 # Contact Me Here
 <a href=https://www.linkedin.com/in/abhaypadamani > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
 <br/>
 <br/>
-<br/>
- 
 
 ⭐ from [Abhay Padamani](https://github.com/Padamaniabhay)
 
