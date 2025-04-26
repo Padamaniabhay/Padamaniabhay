@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-I'm **Abhay Padamani**, a passionate **MERN Stack Developer** with **1 year of experience** in building scalable and efficient web applications. I specialize in **React.js, Node.js, Express.js, MongoDB**, and have **basic knowledge of AWS** services.
+I'm **Abhay Padamani**, a passionate **MERN Stack Developer** with **2 yeara of experience** in building scalable and efficient web applications. I specialize in **React.js, Node.js, Express.js, MongoDB**, and have **basic knowledge of AWS** services.
 
 Currently, I'm working as a **Frontend Developer** on an open-source project called **[OpenObserve](https://github.com/openobserve/openobserve)**, a **server monitoring tool** that provides real-time insights into system performance.
 
